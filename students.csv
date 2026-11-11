@@ -1,0 +1,101 @@
+student_id,department,level,attendance,avg_exam_score
+STU001,Information Technology,400,88.3,45.1
+STU002,Information Technology,400,74.1,54.0
+STU003,Information Technology,200,63.2,52.7
+STU004,Software Engineering,200,61.7,50.3
+STU005,Software Engineering,300,50.9,29.4
+STU006,Cybersecurity,200,48.1,36.8
+STU007,Computer Science,200,41.2,32.1
+STU008,Artificial Intelligence,100,87.4,62.1
+STU009,Cybersecurity,100,96.3,57.8
+STU010,Cybersecurity,400,81.3,54.6
+STU011,Cybersecurity,200,78.5,61.0
+STU012,Software Engineering,400,62.1,49.9
+STU013,Cybersecurity,300,64.1,53.8
+STU014,Software Engineering,400,60.2,51.9
+STU015,Software Engineering,200,51.5,42.5
+STU016,Software Engineering,100,73.3,43.6
+STU017,Cybersecurity,300,89.5,80.1
+STU018,Computer Science,100,70.5,43.2
+STU019,Computer Science,300,85.6,52.8
+STU020,Information Technology,200,66.2,46.3
+STU021,Computer Science,300,56.7,40.5
+STU022,Computer Science,200,54.7,38.6
+STU023,Information Technology,400,82.7,48.4
+STU024,Information Technology,200,51.2,39.3
+STU025,Computer Science,100,73.3,51.9
+STU026,Cybersecurity,100,76.1,68.2
+STU027,Artificial Intelligence,400,69.5,44.8
+STU028,Computer Science,200,67.7,35.8
+STU029,Computer Science,400,60.4,41.6
+STU030,Computer Science,200,55.2,46.0
+STU031,Computer Science,300,55.0,29.3
+STU032,Software Engineering,400,82.9,44.8
+STU033,Software Engineering,300,69.6,46.1
+STU034,Cybersecurity,300,57.3,46.0
+STU035,Information Technology,400,81.7,68.3
+STU036,Artificial Intelligence,300,96.7,68.9
+STU037,Computer Science,200,42.6,33.9
+STU038,Information Technology,300,97.2,61.3
+STU039,Software Engineering,200,82.9,63.4
+STU040,Cybersecurity,300,50.0,36.4
+STU041,Computer Science,100,77.7,41.5
+STU042,Computer Science,100,47.7,26.8
+STU043,Cybersecurity,200,92.8,58.2
+STU044,Computer Science,400,76.0,41.5
+STU045,Computer Science,400,73.8,43.0
+STU046,Artificial Intelligence,200,70.2,43.5
+STU047,Computer Science,300,48.1,42.1
+STU048,Cybersecurity,300,73.9,45.0
+STU049,Computer Science,300,89.0,49.4
+STU050,Information Technology,400,89.8,76.2
+STU051,Cybersecurity,200,67.9,43.3
+STU052,Information Technology,300,65.6,45.9
+STU053,Information Technology,400,84.8,42.4
+STU054,Computer Science,400,73.5,63.9
+STU055,Cybersecurity,300,42.6,28.2
+STU056,Cybersecurity,200,96.6,54.8
+STU057,Software Engineering,200,90.5,73.6
+STU058,Software Engineering,300,61.6,46.0
+STU059,Computer Science,100,78.9,47.4
+STU060,Software Engineering,100,66.8,45.0
+STU061,Information Technology,200,40.0,27.9
+STU062,Computer Science,400,59.7,32.8
+STU063,Information Technology,400,53.3,33.1
+STU064,Software Engineering,400,93.5,50.6
+STU065,Information Technology,300,60.8,36.6
+STU066,Computer Science,300,54.4,44.1
+STU067,Software Engineering,100,73.1,57.9
+STU068,Cybersecurity,400,77.7,54.7
+STU069,Computer Science,300,64.1,40.9
+STU070,Computer Science,100,75.6,63.8
+STU071,Computer Science,400,84.8,43.8
+STU072,Computer Science,400,78.5,59.8
+STU073,Computer Science,400,88.8,49.9
+STU074,Computer Science,400,77.8,62.3
+STU075,Computer Science,200,50.9,30.8
+STU076,Computer Science,200,93.0,55.7
+STU077,Artificial Intelligence,200,87.5,77.3
+STU078,Software Engineering,100,52.4,38.6
+STU079,Computer Science,200,73.2,38.4
+STU080,Computer Science,300,72.7,62.2
+STU081,Cybersecurity,100,73.4,38.2
+STU082,Computer Science,100,62.3,42.8
+STU083,Computer Science,300,90.9,56.2
+STU084,Information Technology,400,64.6,55.2
+STU085,Software Engineering,300,63.3,39.8
+STU086,Information Technology,400,97.1,79.6
+STU087,Cybersecurity,400,80.6,64.9
+STU088,Information Technology,400,70.0,50.7
+STU089,Cybersecurity,200,65.7,56.7
+STU090,Software Engineering,400,66.4,51.6
+STU091,Information Technology,400,96.2,54.2
+STU092,Artificial Intelligence,400,40.0,25.8
+STU093,Cybersecurity,300,97.4,65.5
+STU094,Software Engineering,300,73.2,48.7
+STU095,Software Engineering,300,82.6,60.7
+STU096,Information Technology,300,93.8,57.1
+STU097,Information Technology,400,67.4,41.3
+STU098,Computer Science,400,71.8,60.2
+STU099,Artificial Intelligence,400,84.9,43.5
+STU100,Computer Science,400,53.9,41.7
